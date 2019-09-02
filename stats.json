@@ -22,17 +22,28 @@
     "path---modules-contracts-models-owned": "path---modules-contracts-models-owned-3937ca21b51c9722ae4f.js",
     "path---classes-contracts-models-a-ethfinex-aethfinex": "path---classes-contracts-models-a-ethfinex-aethfinex-59540f40c760e940acd9.js",
     "path---modules-contracts-models-unlimited-allowance-token": "path---modules-contracts-models-unlimited-allowance-token-cf24f8ed369800ea1a7e.js",
+<<<<<<< HEAD
     "path---": "path----b9f03f56c6dda1fe3641.js",
+=======
+    "path---": "path----1b0f33b38c5bac848d9f.js",
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
     "path---interfaces-contracts-basecontract-eventoptions": "path---interfaces-contracts-basecontract-eventoptions-149b2d91c901cd853623.js",
     "path---modules-contracts-models-exchange-v-1-fork": "path---modules-contracts-models-exchange-v-1-fork-5091ea90b718f88207cb.js",
     "path---classes-contracts-models-drago-registry-dragoregistry": "path---classes-contracts-models-drago-registry-dragoregistry-7ad0a1d7e45dd3663e24.js",
     "path---enums-contracts-models-token-transfer-proxy-tokentransferproxyevents": "path---enums-contracts-models-token-transfer-proxy-tokentransferproxyevents-8a5871427c524aa845a6.js",
     "path---modules-contracts-models-vault-factory": "path---modules-contracts-models-vault-factory-1d4c142c1654f624abd7.js",
     "path---modules-api": "path---modules-api-5a3dccb042afd5b96264.js",
+<<<<<<< HEAD
     "component---src-pages-search-jsx": "component---src-pages-search-jsx-8bddda79eba1f628d7c3.js",
     "path---enums-contracts-models-rigo-token-rigotokenevents": "path---enums-contracts-models-rigo-token-rigotokenevents-6d42c9a8e6d13d4b2c57.js",
     "path---classes-contracts-models-unlimited-allowance-token-unlimitedallowancetoken": "path---classes-contracts-models-unlimited-allowance-token-unlimitedallowancetoken-e577fb5b4fcf43d65f1a.js",
     "component---src-layouts-index-jsx": "component---src-layouts-index-jsx-ac108214bb6ab7009a90.js",
+=======
+    "component---src-pages-search-jsx": "component---src-pages-search-jsx-737a665c80c57a10c824.js",
+    "path---enums-contracts-models-rigo-token-rigotokenevents": "path---enums-contracts-models-rigo-token-rigotokenevents-6d42c9a8e6d13d4b2c57.js",
+    "path---classes-contracts-models-unlimited-allowance-token-unlimitedallowancetoken": "path---classes-contracts-models-unlimited-allowance-token-unlimitedallowancetoken-e577fb5b4fcf43d65f1a.js",
+    "component---src-layouts-index-jsx": "component---src-layouts-index-jsx-8b2dd46653b1575e5794.js",
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
     "path---modules-contracts-models-migrations": "path---modules-contracts-models-migrations-f79cdbb2484903618afa.js",
     "path---enums-constants-networks": "path---enums-constants-networks-b4721f0d8f7eefed8556.js",
     "path---modules-contracts-models-vault": "path---modules-contracts-models-vault-5da9b92c1b6d978b5259.js",
@@ -51,7 +62,11 @@
     "path---classes-contracts-models-drago-drago": "path---classes-contracts-models-drago-drago-4b157d33336c15bc9b28.js",
     "path---modules-contracts-models-h-get-drago-data": "path---modules-contracts-models-h-get-drago-data-302ca16f0bc83bc34b7b.js",
     "path---enums-contracts-models-exchange-v-1-fork-exchangev-1-forkevents": "path---enums-contracts-models-exchange-v-1-fork-exchangev-1-forkevents-69ef0dd616c891b1e516.js",
+<<<<<<< HEAD
     "path---api-2-usage-examples": "path---api-2-usage-examples-26a026f5d3a9fc00feda.js",
+=======
+    "path---api-2-usage-examples": "path---api-2-usage-examples-44541a1b4fc311cda59b.js",
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
     "path---classes-contracts-models-faucet-faucet": "path---classes-contracts-models-faucet-faucet-f2d7fa5a691afb4bb9f0.js",
     "path---enums-contracts-models-vault-factory-vaultfactoryevents": "path---enums-contracts-models-vault-factory-vaultfactoryevents-c7cb228e91ab45757b5f.js",
     "path---enums-contracts-models-owned-uninitialized-owneduninitializedevents": "path---enums-contracts-models-owned-uninitialized-owneduninitializedevents-6a516357bab81778cdc9.js",
@@ -78,7 +93,11 @@
     "path---enums-contracts-models-faucet-faucetevents": "path---enums-contracts-models-faucet-faucetevents-e7d86047454aaa4facad.js",
     "path---404-html": "path---404-html-a0e39f21c11f6a62c5ab.js",
     "path---modules-contracts-models-authority": "path---modules-contracts-models-authority-3999d213cb78cb052efd.js",
+<<<<<<< HEAD
     "component---src-pages-404-jsx": "component---src-pages-404-jsx-bc62273b082ae1cf22ab.js",
+=======
+    "component---src-pages-404-jsx": "component---src-pages-404-jsx-505137091686d4b1379f.js",
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
     "path---modules-contracts-contract": "path---modules-contracts-contract-52f5df8072deebec2ce0.js",
     "path---enums-contracts-models-weth-9-weth-9-events": "path---enums-contracts-models-weth-9-weth-9-events-e3c147e3c5dc88acae6f.js",
     "path---enums-contracts-models-owned-ownedevents": "path---enums-contracts-models-owned-ownedevents-e6eb1374d9ce41b5d939.js",
@@ -97,19 +116,33 @@
     "path---classes-contracts-models-drago-factory-dragofactory": "path---classes-contracts-models-drago-factory-dragofactory-5b37151273a878927b36.js",
     "path---interfaces-contracts-basecontract-transactionobject": "path---interfaces-contracts-basecontract-transactionobject-9277d6a798b026077a88.js",
     "app": [
+<<<<<<< HEAD
       "app-be5d5767a56bb5b200cb.js",
       "build-js-styles.css"
     ],
     "path---enums-contracts-models-exchanges-authority-exchangesauthorityevents": "path---enums-contracts-models-exchanges-authority-exchangesauthorityevents-8d37b601ff4e6bff7e73.js",
     "component---src-templates-document-jsx": "component---src-templates-document-jsx-7c85dbe67b1cb25cac00.js",
+=======
+      "app-f91c41f43f49f0e7f052.js",
+      "build-js-styles.css"
+    ],
+    "path---enums-contracts-models-exchanges-authority-exchangesauthorityevents": "path---enums-contracts-models-exchanges-authority-exchangesauthorityevents-8d37b601ff4e6bff7e73.js",
+    "component---src-templates-document-jsx": "component---src-templates-document-jsx-89c2d2aa7ca1495351cc.js",
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
     "path---modules-contracts-models-weth-9": "path---modules-contracts-models-weth-9-80e86b6fd79e499b62c2.js",
     "path---enums-contracts-models-authority-authorityevents": "path---enums-contracts-models-authority-authorityevents-b5b83316336ca2eb59b5.js",
     "path---classes-contracts-models-h-get-drago-data-hgetdragodata": "path---classes-contracts-models-h-get-drago-data-hgetdragodata-228bb9664c3acfdf1406.js",
     "path---classes-contracts-models-nav-verifier-navverifier": "path---classes-contracts-models-nav-verifier-navverifier-8c996e5ca306dbf3cf98.js",
     "path---enums-contracts-models-erc-20-erc-20-events": "path---enums-contracts-models-erc-20-erc-20-events-13074c1774858ac6887f.js",
+<<<<<<< HEAD
     "path---quick-start": "path---quick-start-326dfc61461e252f4fc6.js",
     "path---404": "path---404-a0e39f21c11f6a62c5ab.js",
     "path---search": "path---search-3fd69371b03705002358.js",
+=======
+    "path---quick-start": "path---quick-start-502aadbc7f5b03036c49.js",
+    "path---404": "path---404-a0e39f21c11f6a62c5ab.js",
+    "path---search": "path---search-f3b96afe355dd1fa66c2.js",
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
     "path---modules-contracts-models-exchange-efx": "path---modules-contracts-models-exchange-efx-c5780df1b9ce7230a044.js",
     "path---classes-contracts-models-vault-factory-vaultfactory": "path---classes-contracts-models-vault-factory-vaultfactory-144450b18c3ffad4c76a.js",
     "path---classes-contracts-models-vault-eventful-vaulteventful": "path---classes-contracts-models-vault-eventful-vaulteventful-1cf95852eaad87c55793.js",

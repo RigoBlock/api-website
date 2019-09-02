@@ -4,8 +4,13 @@
 <url> <loc>https://docs.rigoblock.com/quick_start</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/api/1.overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/api/2.usage_examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<<<<<<< HEAD
 <url> <loc>https://docs.rigoblock.com/contracts/1.overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/interfaces/_api_.providerenginefix</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+=======
+<url> <loc>https://docs.rigoblock.com/interfaces/_api_.providerenginefix</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/contracts/1.overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
 <url> <loc>https://docs.rigoblock.com/interfaces/_contracts_basecontract_.eventfilter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/interfaces/_contracts_basecontract_.eventoptions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/interfaces/_contracts_basecontract_.transactionobject</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -51,7 +56,15 @@
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_exchanges_authority_.exchangesauthority</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_faucet_.faucet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_h_get_drago_data_.hgetdragodata</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<<<<<<< HEAD
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_owned_.owned</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+=======
+<url> <loc>https://docs.rigoblock.com/classes/_contracts_models_inflation_.inflation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/classes/_contracts_models_nav_verifier_.navverifier</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/classes/_contracts_models_migrations_.migrations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/classes/_contracts_models_owned_.owned</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/classes/_contracts_models_owned_uninitialized_.owneduninitialized</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_proof_of_performance_.proofofperformance</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_owned_uninitialized_.owneduninitialized</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_sig_verifier_.sigverifier</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -60,20 +73,32 @@
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_token_transfer_proxy_.tokentransferproxy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_vault_eventful_.vaulteventful</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_vault_.vault</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<<<<<<< HEAD
+=======
+<url> <loc>https://docs.rigoblock.com/classes/_contracts_models_vault_eventful_.vaulteventful</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_vault_factory_.vaultfactory</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_weth9_.weth9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_wrapper_lock_eth_.wrapperlocketh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_wrapper_lock_.wrapperlock</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<<<<<<< HEAD
 <url> <loc>https://docs.rigoblock.com/modules/_api_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+=======
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
 <url> <loc>https://docs.rigoblock.com/classes/_websocketsubprovider_.websocketsubprovider</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/modules/_api_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_constants_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_basecontract_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_contract_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_contractslist_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_a_ethfinex_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_a_weth_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<<<<<<< HEAD
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_distribution_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+=======
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_authority_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/modules/_contracts_models_distribution_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_drago_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_drago_eventful_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_drago_factory_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -82,16 +107,30 @@
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_exchange_efx_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_exchange_v1_fork_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_exchanges_authority_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<<<<<<< HEAD
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_faucet_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_h_get_drago_data_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_migrations_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_nav_verifier_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_inflation_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+=======
+<url> <loc>https://docs.rigoblock.com/modules/_contracts_models_h_get_drago_data_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/modules/_contracts_models_faucet_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/modules/_contracts_models_inflation_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/modules/_contracts_models_migrations_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/modules/_contracts_models_nav_verifier_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_owned_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_owned_uninitialized_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/modules/_contracts_models_proof_of_performance_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_rigo_token_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<<<<<<< HEAD
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_proof_of_performance_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_sig_verifier_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+=======
+<url> <loc>https://docs.rigoblock.com/modules/_contracts_models_sig_verifier_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.rigoblock.com/modules/_contracts_models_token_transfer_proxy_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_unlimited_allowance_token_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_token_transfer_proxy_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_vault_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -101,9 +140,12 @@
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_wrapper_lock_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_contracts_models_wrapper_lock_eth_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/modules/_websocketsubprovider_</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<<<<<<< HEAD
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_migrations_.migrations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_inflation_.inflation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/classes/_contracts_models_nav_verifier_.navverifier</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+=======
+>>>>>>> 2cc01257e986888a08a455dbb96e4b8286f7c837
 <url> <loc>https://docs.rigoblock.com/404/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.rigoblock.com/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
